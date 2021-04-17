@@ -1,0 +1,22 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 0px;
+    margin-left: 20%;
+  }
+
+  .table,tr,td{
+    
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid rgb(31, 29, 29);
+    padding: 8px;
+  }
+
+  .table td{
+      width: 10%;
+  }
+
+  .table thead{
+    font-weight: bold;
+  }
